@@ -1,6 +1,6 @@
 # simple-login-screen
 
-Uma simples página Web de login
+Uma simples página Web de login.
 
 ## 🛠️ Construído com
 
